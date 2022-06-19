@@ -1,0 +1,2 @@
+https://documenter.getpostman.com/view/4433773/TVKD1crk
+https://www.avyatech.com/rest-api-with-laravel-8-using-jwt-token/
